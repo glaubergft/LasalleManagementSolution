@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LasalleManagement.Business", "LasalleManagement.Business\LasalleManagement.Business.csproj", "{00E633E7-BE33-4D2E-998F-C2C6DD05951C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LasalleManagement.UI", "LasalleManagement.UI\LasalleManagement.UI.csproj", "{48538869-2F54-4EC9-9302-8B35A3C338C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E633E7-BE33-4D2E-998F-C2C6DD05951C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E633E7-BE33-4D2E-998F-C2C6DD05951C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E633E7-BE33-4D2E-998F-C2C6DD05951C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E633E7-BE33-4D2E-998F-C2C6DD05951C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48538869-2F54-4EC9-9302-8B35A3C338C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48538869-2F54-4EC9-9302-8B35A3C338C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48538869-2F54-4EC9-9302-8B35A3C338C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48538869-2F54-4EC9-9302-8B35A3C338C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16BE6022-76C3-41A1-8C74-C35B0BC5945D}
+	EndGlobalSection
+EndGlobal
